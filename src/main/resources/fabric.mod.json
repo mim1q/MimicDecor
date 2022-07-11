@@ -17,6 +17,9 @@
     ],
     "main": [
       "com.github.mim1q.mimicdecor.MimicDecor"
+    ],
+    "fabric-datagen": [
+      "com.github.mim1q.mimicdecor.datagen.MimicDataGenerator"
     ]
   },
   "depends": {
